@@ -1,16 +1,4 @@
-# my_calculator_
+# my_calculator with dark and light mode
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screen_one](https://user-images.githubusercontent.com/85957655/192114188-1e0508a9-8c76-4da2-ba2c-a4453d0442f3.jpg)
+![screen_two](https://user-images.githubusercontent.com/85957655/192114190-9d571512-53d3-4f56-868c-7196028b177e.jpg)
